@@ -45,13 +45,8 @@ input {
     width: 57px;
     height: 58px;
     border-radius: 10px;
-}
 
-.categorias .categorias-item:first-child{
-    background-color: #6929F0;
-}
-.categorias .categorias-item:not(:first-child){
-    background-color: #ccc;
+    background-color: #949494;
 }
 
 .categorias-item img {
